@@ -1,7 +1,7 @@
 
 
-const username = "Abdirahman";
-const city = "Garissa yarey";
+const username = "Liza";
+const city = "New York";
 
 
 
